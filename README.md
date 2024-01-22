@@ -16,7 +16,7 @@ Lembre-se, caso queira usar o projeto, você precisará baixar o React Router DO
 npm install react-router-dom
 npm run dev
 
-Spoiler do Projeto: https://cine-tag-self.vercel.app/ <br>
+<h1> Spoiler do Projeto: https://cine-tag-self.vercel.app/ </h1>
 
 <h1>Página Inicial</h1>
 ![image](https://github.com/JosanBehrends/Cine-Tag/assets/123435999/506a3e28-2179-49d5-b2bc-e66162161643)
